@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- - 💼 &nbsp; Working as IT & Finance Project Manager in an international company. Worked as Project Manager in an world knowned music business company.
 - 🎓 &nbsp; Studied Back-end technologies and Management.
-- 💼 &nbsp; Worked as Project Manager in an world knowned music business company and now looking for a job as Back-end Developer.
-- 🌱 &nbsp; Learning more about Java, SQL and Spring Boot.
+- 🌱 &nbsp; Learning more about Python, Java, SQL and Spring Boot.
 - ✍️ &nbsp; Pursuing hiking and reading as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
